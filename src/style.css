@@ -19,7 +19,7 @@ a {
     font-weight: bold;
 }
 .footers{
-    position: absolute;
+    position: relative;
     font-family: 'Courier New', Courier, monospace;
 	top: 750px;
 	margin-left: 80px;
